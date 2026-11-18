@@ -14,10 +14,17 @@ I work directly with the CEO and CTO and coordinate sales, marketing, design and
 
 **Stack:** TypeScript, JavaScript, React, Next.js, Vue, Nuxt, Go, SQL, PostgreSQL and Docker.
 
-## Selected public work
+## Selected projects
+
+- [**Name Garden**](https://github.com/CherniyFY/baby-name-chooser) is a React and TypeScript app for two people to shortlist names, compare them pairwise and run double-elimination finals. Shared ratings and votes persist in Cloudflare D1.
+- [**Consensus Tournament**](https://github.com/CherniyFY/consensus-tournament) is a dependency-free TypeScript engine for seeded double-elimination brackets. Two independent voters can advance an entrant by agreement or resolve a split vote explicitly.
+- [**Telegram Content Publisher**](https://github.com/CherniyFY/telegram-content-publisher) is a self-hosted TypeScript and MCP toolkit with invitation-based access, encrypted credentials, per-recipient delivery receipts and duplicate-send protection.
+- [**Theme Scheduler**](https://github.com/CherniyFY/theme-scheduler) is a Python and systemd tool for KDE Plasma that switches themes around sunrise and sunset and restores KDE’s built-in switching if the service fails.
+
+## Open-source contributions
 
 - **React/TypeScript webchat:** five merged contributions covering integration options, tenant compatibility, quick replies, appearance and typed localization — [#1](https://github.com/Twolbe/er-webchat/pull/1), [#2](https://github.com/Twolbe/er-webchat/pull/2), [#3](https://github.com/Twolbe/er-webchat/pull/3), [#4](https://github.com/Twolbe/er-webchat/pull/4), [#5](https://github.com/Twolbe/er-webchat/pull/5).
 - **Vue chat component:** [accepted image/file-preview contribution](https://github.com/mattmezza/vue-beautiful-chat/pull/77).
-- **Telegram delivery toolkit:** [TypeScript/MCP project](https://github.com/CherniyFY/telegram-content-publisher) with invitation-based access, encrypted credentials, delivery receipts and duplicate-send protection.
+- **Recent upstream submissions:** [Cline Hub color scheme](https://github.com/cline/cline/pull/15775), [OpenCode session import guidance](https://github.com/anomalyco/opencode/pull/64666) and [falcond power-profile preservation](https://github.com/PikaOS-Linux/falcond/pull/11).
 
 [Email](mailto:theocherniy@gmail.com) · [LinkedIn](https://www.linkedin.com/in/theodore-cherniy/)
