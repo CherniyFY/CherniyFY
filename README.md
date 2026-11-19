@@ -19,7 +19,7 @@ I work directly with the CEO and CTO and coordinate sales, marketing, design and
 - [**Name Garden**](https://github.com/CherniyFY/baby-name-chooser) is a React and TypeScript app for two people to shortlist names, compare them pairwise and run double-elimination finals. Shared ratings and votes persist in Cloudflare D1.
 - [**Consensus Tournament**](https://github.com/CherniyFY/consensus-tournament) is a dependency-free TypeScript engine for seeded double-elimination brackets. Two independent voters can advance an entrant by agreement or resolve a split vote explicitly.
 - [**Telegram Content Publisher**](https://github.com/CherniyFY/telegram-content-publisher) is a self-hosted TypeScript and MCP toolkit with invitation-based access, encrypted credentials, per-recipient delivery receipts and duplicate-send protection.
-- [**Theme Scheduler**](https://github.com/CherniyFY/theme-scheduler) is a Python and systemd tool for KDE Plasma that switches themes around sunrise and sunset and restores KDE’s built-in switching if the service fails.
+- [**Sweep**](https://github.com/CherniyFY/sweep) is a Go CLI for cache cleanup and snapshot retention. It previews planned changes, requires an explicit `--apply`, and confines file deletion to allowlisted directories.
 
 ## Open-source contributions
 
